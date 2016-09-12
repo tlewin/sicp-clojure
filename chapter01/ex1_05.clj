@@ -12,4 +12,4 @@
 ;; In applicative-order it is expected an infinite loop
 ;; because p will be evaluated before test is called
 ;; On the other hand, in normal-order is expected to return 0, since
-;; y will be replace by p call and never will be executed.
+;; y will be replaced by p call and never will be executed.
